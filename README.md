@@ -112,3 +112,7 @@ pnpm dlx nuxi add middleware auth
 store に関しては pinia を使用しセッションストレージに保持する。
 
 [参考](https://zenn.dev/mihorin1729/articles/f29073e516bc8c)
+
+#認証
+###Firebase Authentication で実施
+[参考](https://qiita.com/tauemo/items/b1981162d3f331d4e9d2)
